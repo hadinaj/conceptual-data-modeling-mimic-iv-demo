@@ -1,6 +1,6 @@
 # Conceptual data modeling of EHR-derived clinical data: code and documentation
 
-Code and documentation for the article **Conceptual Data Modeling of EHR-Derived Clinical Data: A Stakeholder-Oriented Methodological Framework** (citation to be added on publication). Release `v1.3-revision` corresponds to the revised version of the article.
+Code and documentation for the article **Conceptual Data Modeling of EHR-Derived Clinical Data: A Stakeholder-Oriented Methodological Framework** (citation to be added on publication). Release v1.0 corresponds to the revised version of the article.
 
 The code inspects the tables of the MIMIC-IV Clinical Database Demo and the MIMIC-IV-ED Demo, checks candidate relationships between them, and compares the results with the published FHIR and OMOP versions of the same data.
 
